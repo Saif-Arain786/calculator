@@ -1,0 +1,45 @@
+.input{
+    
+    display: flex;
+    justify-content: center;
+}
+.input{
+    min-height: 60px;
+    max-height: 1000px;
+    width: 250px;
+    margin: auto;
+    margin-bottom: 30px;
+    border: none;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 30px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+}
+.div4{
+    display: flex;
+    justify-content: center;
+}
+.flex{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px red;
+}
+.flex:focus{
+    box-shadow: 0px 0px 10px rgb(0, 255, 76);
+}
+.flex:hover{
+    box-shadow: 0px 0px 10px rgb(0, 255, 76);
+
+}
